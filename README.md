@@ -1,5 +1,5 @@
 # cflanggenerator
-Context Free Language String Generator
+Context Free Language String Generator / Генератор цепочек КС-языка
 
 Generation of CF-language strings by program method.
 Task: 
@@ -16,7 +16,7 @@ Result:
 A list of generated KC-language strings of a given length.
 
 
-Генерация цепочек КС-языка программным методом.
+Генерация цепочек КС-языка программным методом
 Задача: 
 Написать программу, которая генерирует все цепочки языка в некотором диапазоне длин в соответствии с заданной контекстно-свободной грамматикой.
 Входные данные:
