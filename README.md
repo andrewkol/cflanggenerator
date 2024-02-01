@@ -1,5 +1,5 @@
 # cflanggenerator
-Context Free Language Chain Generator
+Context Free Language String Generator
 
 Generation of CF-language strings by program method.
 Task: 
